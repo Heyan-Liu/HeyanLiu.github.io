@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "刘赫妍.png"
   name             : "Heyan Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Computer Vision"
   location         : "China"
   employer         : #
-  uri              : # URL
-  email            : liuheyan@nenu.edu.cn
+  uri              : "https://heyan-liu.github.io/HeyanLiu.github.io/"
+  email            : "liuheyan@nenu.edu.cn"
 
   # Academic websites
   arxiv            : #
