@@ -12,7 +12,7 @@ title                    : "Heyan Liu"
 title_separator          : "-"
 name                     : &name "HeYan Liu"
 description              : &description "doctoral student in Computer Vision"
-url                      : https://heyan-liu.github.io/
+url                      : "https://heyan-liu.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
